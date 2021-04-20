@@ -1,4 +1,4 @@
-#This code save the mains news title on respective site
+#This code save the mains news title of respective site
 
 #!conda install requests
 #!conda install beautifulsoap4
